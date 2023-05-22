@@ -1,1 +1,17 @@
-# MIT-OpenCourseWare-Reading-Annotations-Web-App
+# MIT OpenCourseWare Reading Annotations Web Application
+## Project Info:
+- Website: https://colx-523-team1-project.azurewebsites.net/index.html
+- Achievement: Most popular project, voted by the cohort: Rank 1st
+- Project Demonstration Video: https://drive.google.com/file/d/1IdYd_8DAUmBs8wFyNzx_uHIYusYXt9Pr/view?usp=share_link
+- Scrapped data online using Python, BeautifulSoup
+- Developed Web Application using Python as Back-end and Javascript as Front-end
+- Implemented using numpy, pandas, fastapi, uvicorn, matplotlib, nltk, jinja2
+- Deployed Web app using Docker image and Microsoft Azure
+
+## Web App Features:
+- In both Search by Title page and Search by Author page, you can search the readings based on different course topics.
+  - For Type of Readings, you can choose whether they are Book, Academic Paper, or All to include both of them.
+  - For Readings to Include, you can choose whether they are Required, Optional in MIT open courses, or All to include both of them.
+  - Please click the Search button after making the selections.
+  - If no readings appear, that means no readings match the selections. Please make other selections and try again!
+- Please check out our statistics page! There are some visualizations about our annotation progress, average number of readings by major topic, and average number of readings by major topic.
