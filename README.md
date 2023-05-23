@@ -1,4 +1,10 @@
 # MIT OpenCourseWare Reading Annotations Web Application
+
+## Project Introduction:
+- MIT OpenCourseWare provides free online resources for 2,494 university courses.
+- Our project aimed to annotate reading materials from each course syllabus page, categorizing them into required and optional readings.
+- We hope the annotations can help self-leaners quickly find important readings related to their topic of interest, and inform instructors with statistics on readings that provide guidelines to designing future curriculums.
+
 ## Project Info:
 - Website: https://colx-523-team1-project.azurewebsites.net
 - Achievement: Most popular project, voted by the cohort: Rank 1st
