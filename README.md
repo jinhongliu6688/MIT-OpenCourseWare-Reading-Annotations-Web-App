@@ -1,8 +1,7 @@
 # MIT OpenCourseWare Reading Annotations Web Application
 ## Project Info:
-- Website: https://colx-523-team1-project.azurewebsites.net/index.html
+- Website: https://colx-523-team1-project.azurewebsites.net
 - Achievement: Most popular project, voted by the cohort: Rank 1st
-- Project Demonstration Video: https://drive.google.com/file/d/1IdYd_8DAUmBs8wFyNzx_uHIYusYXt9Pr/view?usp=share_link
 - Scrapped data online using Python, BeautifulSoup
 - Developed Web Application using Python as Back-end and Javascript as Front-end
 - Implemented using numpy, pandas, fastapi, uvicorn, matplotlib, nltk, jinja2
