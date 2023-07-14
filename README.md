@@ -6,7 +6,7 @@
 - We hope the annotations can help self-leaners quickly find important readings related to their topic of interest, and inform instructors with statistics on readings that provide guidelines to designing future curriculums.
 
 ## Project Info:
-- Website: https://colx-523-team1-project.azurewebsites.net
+- Website: https://mit-web-application-3d4da2965f8d.herokuapp.com/
 - Achievement: Most popular project, voted by the cohort: Rank 1st
 - Scrapped data online using Python, BeautifulSoup
 - Developed Web Application using Python as Back-end and Javascript as Front-end
